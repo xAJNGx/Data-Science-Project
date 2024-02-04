@@ -1,4 +1,4 @@
-# Screenshots of The Exam
+# Screenshots of The Associate Exam where I missed by Lacking in Data Validation only.
 
 ![Screenshot 1](Screenshot%202023-09-02%20225051.png)
 
